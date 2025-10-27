@@ -123,6 +123,8 @@ nivelFormacion: Nivel de formación académica.
 Relación:
 
 @OneToOne con Medico mediante la clave foránea fk_Medico.
+
+
 🧠 Buenas Prácticas
 
 Cada entidad tiene:
